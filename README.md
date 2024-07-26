@@ -9,7 +9,7 @@ Here the Link for the Preview
 # How to Run 
 
  1. First Clone
- 2. npm i ( Install Node Modules)
+ 2. npm install ( Install Node Modules)
  3. npm run dev ( To run )
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
