@@ -1,0 +1,19 @@
+.image-main-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+.imagemain-contoll{
+    height: 250px;
+    width: 250px;
+    overflow: hidden;
+}
+.image-src{
+    transition: all 0.25s ease-in-out;
+}
+.image-src:hover{
+    transform: scale(1.2);
+}
