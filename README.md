@@ -1,5 +1,17 @@
 # React + Vite
 
+Hello there !
+
+Here the Link for the Preview 
+
+# [Click Me](https://66a3e944b95c2e2c4ec986f6--radiant-pothos-e3e8e9.netlify.app/) 
+
+# How to Run 
+
+ 1. First Clone
+ 2. npm install ( Install Node Modules)
+ 3. npm run dev ( To run )
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
