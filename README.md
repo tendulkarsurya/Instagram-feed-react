@@ -4,7 +4,7 @@ Hello there !
 
 Here the Link for the Preview
 
-[Click Me](https://66a3e944b95c2e2c4ec986f6--radiant-pothos-e3e8e9.netlify.app/]
+[Click Me](https://66a3e944b95c2e2c4ec986f6--radiant-pothos-e3e8e9.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
